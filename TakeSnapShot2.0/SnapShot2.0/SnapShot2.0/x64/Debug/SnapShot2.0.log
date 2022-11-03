@@ -1,0 +1,11 @@
+﻿  GetProcessInfo.c
+C:\Users\ofer1\source\repos\TakeSnapShot2.0\SnapShot2.0\SnapShot2.0\GetProcessInfo.c(64,5): warning C4033: 'PrintMemoryInfo' must return a value
+C:\Users\ofer1\source\repos\TakeSnapShot2.0\SnapShot2.0\SnapShot2.0\GetProcessInfo.c(79,3): warning C4033: 'PrintMemoryInfo' must return a value
+C:\Users\ofer1\source\repos\TakeSnapShot2.0\SnapShot2.0\SnapShot2.0\GetProcessInfo.c(117,7): warning C4033: 'PrintMemoryInfo' must return a value
+C:\Users\ofer1\source\repos\TakeSnapShot2.0\SnapShot2.0\SnapShot2.0\GetProcessInfo.c(159,11): warning C4047: 'return': 'SnapShot *' differs in levels of indirection from 'int'
+C:\Users\ofer1\source\repos\TakeSnapShot2.0\SnapShot2.0\SnapShot2.0\GetProcessInfo.c(179,4): warning C4033: 'GetProcessesInfo' must return a value
+C:\Users\ofer1\source\repos\TakeSnapShot2.0\SnapShot2.0\SnapShot2.0\GetProcessInfo.c(238,14): warning C4098: 'AccumulateSnapShots': 'void' function returning a value
+C:\Users\ofer1\source\repos\TakeSnapShot2.0\SnapShot2.0\SnapShot2.0\GetProcessInfo.c(267,15): warning C4098: 'AccumulateSnapShots': 'void' function returning a value
+C:\Users\ofer1\source\repos\TakeSnapShot2.0\SnapShot2.0\SnapShot2.0\GetProcessInfo.c(215): warning C4715: 'GetProcessesInfo': not all control paths return a value
+C:\Users\ofer1\source\repos\TakeSnapShot2.0\SnapShot2.0\SnapShot2.0\GetProcessInfo.c(143): warning C4715: 'PrintMemoryInfo': not all control paths return a value
+  SnapShot2.0.vcxproj -> C:\Users\ofer1\source\repos\TakeSnapShot2.0\SnapShot2.0\x64\Debug\SnapShot2.0.exe
